@@ -1,0 +1,18 @@
+{
+  "name": "forex_profit_calc",
+  "version": "1.0.0",
+  "description": "A monorepo for projects associated with the development of a useful simulation tool for managing risk associated with market trading",
+  "main": "index.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "forex",
+    "stocks",
+    "exchange",
+    "market",
+    "typescript"
+  ],
+  "author": "Ritchel Cousar Jr.",
+  "license": "ISC"
+}
